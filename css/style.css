@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;1,700&family=Jomhuria&family=Lateef&family=Rakkas&display=swap');
 *{
 	box-sizing:border-box;
 	margin:0;
@@ -5,6 +6,9 @@
 }
 .offcanvas-body .card-body{
     position: relative;
+}
+.navbar-brand{
+    font-family: 'Rakkas', cursive;
 }
 a{
 	text-decoration:none;
